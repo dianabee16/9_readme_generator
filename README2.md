@@ -1,5 +1,5 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
-  # Title: aaaaaa 
+  # Title: Professional README Generator 
 
   # Table of Contents
   1. [Description](#description)
@@ -12,19 +12,19 @@
 
 
 ## Description
-bbbbb
+This project uses a command-line application that dynamically generates a professional README file. The user will be asked a series of questions, and a new README file will be generated.
 
 ## Installation
-cccccc
+To install the user needs to open the integrated terminal and run “npm install”
 
 ## Usage
-ddddddd
+To use the application run in the integrated terminal “node index.js”. The user will be prompted with questions, and after answering those, it will generate a new README file.
 
 ## Contribution
-eeeeeee
+Diana Bee
 
 ## Test
-ffffff
+The user can run tests in the integrated terminal.
 
 ## License
 
