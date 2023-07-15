@@ -58,6 +58,12 @@ ${data.test}
 
 ${renderLicenseSection(data.license)}
 
+##  Questions
+For additional questions, feel free to contact me:
+
+GitHub: https://github.com/${data.github}
+
+Email: ${data.email}
 
 `;
 }
