@@ -55,15 +55,13 @@ inquirer.prompt ([
 ]).then((responses) => {
     console.log(responses);
 
+// TODO: Create a function to write README file    
 return fs.writeFileSync(path.join("README2.md"), generateMarkdown({...responses}))
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-    
+
  });
 
 // TODO: Create a function to initialize app
 function init() {
-    // writeToFile('README.md', generateMarkdown({...responses}));
 }
 
 // Function call to initialize app
